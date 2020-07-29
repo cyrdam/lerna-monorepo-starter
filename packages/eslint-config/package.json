@@ -1,0 +1,12 @@
+{
+  "name": "@shared/eslint-config",
+  "version": "0.0.0",
+  "description": "Shareable ESLint configuration",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
