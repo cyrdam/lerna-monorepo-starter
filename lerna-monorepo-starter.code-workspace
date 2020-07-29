@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "name": "ROOT",
+      "path": "."
+    },
+    {
+      "path": "packages/package1"
+    },
+    {
+      "path": "packages/package2"
+    },
+    {
+      "path": "packages/eslint-config"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/node_modules/**": true,
+      "packages/*/*": true
+    }
+  }
+}
