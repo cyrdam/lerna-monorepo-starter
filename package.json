@@ -3,5 +3,11 @@
   "private": true,
   "devDependencies": {
     "lerna": "^3.22.1"
+  },
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "lint": "lerna run lint --parallel",
+    "setup": "npm install && npm run bootstrap",
+    "start": "lerna run start --parallel"
   }
 }
