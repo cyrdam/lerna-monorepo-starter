@@ -1,7 +1,14 @@
-'use strict';
+const http = require('http');
 
-module.exports = package2;
+const hostname = 'localhost';
+const port = 3002;
 
-function package2() {
-    // TODO
-}
+const server = http.createServer((req, res) => {
+  res.statusCode = 200;
+  res.setHeader('Content-Type', 'text/plain');
+  res.end('Hello World - Package 2');
+});
+
+server.listen(port, hostname, () => {
+  console.log(`Server running at http://${hostname}:${port}/`);
+});
