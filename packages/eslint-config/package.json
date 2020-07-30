@@ -5,6 +5,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"

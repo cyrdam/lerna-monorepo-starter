@@ -5,6 +5,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "private": true,
   "main": "lib/package1.js",
   "directories": {
     "lib": "lib",
