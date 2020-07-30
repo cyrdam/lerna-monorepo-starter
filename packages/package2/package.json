@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "private": true,
   "main": "lib/package2.js",
   "directories": {
