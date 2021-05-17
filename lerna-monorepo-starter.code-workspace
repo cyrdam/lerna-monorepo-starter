@@ -18,6 +18,8 @@
     "files.exclude": {
       "**/node_modules/**": true,
       "packages/*/*": true
-    }
+    },
+    "npm.packageManager": "pnpm",
+    "eslint.packageManager": "pnpm"
   }
 }
