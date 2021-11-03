@@ -4,9 +4,9 @@
   "license": "MIT",
   "version": "0.1.0",
   "devDependencies": {
-    "@commitlint/cli": "^12.1.4",
-    "@commitlint/config-conventional": "^12.1.4",
-    "@commitlint/config-lerna-scopes": "^12.1.4",
+    "@commitlint/cli": "^14.1.0",
+    "@commitlint/config-conventional": "^14.1.0",
+    "@commitlint/config-lerna-scopes": "^14.0.0",
     "husky": "^6.0.0",
     "lerna": "^4.0.0"
   },
