@@ -4,7 +4,7 @@ This is a simple monorepo starter code for lerna projects with multiple packages
 
 ## Initialize and start packages
 
-```
+```shell
 npm run setup && npm run start
 ```
 

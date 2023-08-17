@@ -4,17 +4,15 @@
   "license": "MIT",
   "version": "0.1.0",
   "devDependencies": {
-    "@commitlint/cli": "^17.0.2",
-    "@commitlint/config-conventional": "^17.0.2",
-    "@commitlint/config-lerna-scopes": "^17.0.2",
-    "husky": "^6.0.0",
-    "lerna": "^5.1.4",
-    "nx": "^14.3.6"
+    "@commitlint/cli": "^17.7.1",
+    "@commitlint/config-conventional": "^17.7.0",
+    "husky": "^8.0.3",
+    "lerna": "^7.1.5",
+    "nx": "^16.7.1"
   },
   "scripts": {
-    "bootstrap": "lerna bootstrap",
     "lint": "lerna run lint --parallel",
-    "setup": "npm install && npm run bootstrap",
+    "setup": "npm install",
     "start": "lerna run start --parallel",
     "test": "lerna run test"
   }
