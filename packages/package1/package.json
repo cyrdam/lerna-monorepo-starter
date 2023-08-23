@@ -23,6 +23,6 @@
   "devDependencies": {
     "@shared/eslint-config": "*",
     "eslint": "^8.47.0",
-    "lint-staged": "^14.0.0"
+    "lint-staged": "^14.0.1"
   }
 }

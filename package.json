@@ -8,7 +8,7 @@
     "@commitlint/config-conventional": "^17.7.0",
     "husky": "^8.0.3",
     "lerna": "^7.1.5",
-    "nx": "^16.7.1"
+    "nx": "^16.7.3"
   },
   "scripts": {
     "lint": "lerna run lint --parallel",
