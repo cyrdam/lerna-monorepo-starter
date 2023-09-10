@@ -3,16 +3,20 @@
   "private": true,
   "license": "MIT",
   "version": "0.1.0",
+  "engines": {
+    "pnpm": ">=8",
+    "node": ">=16"
+  },
   "devDependencies": {
     "@commitlint/cli": "^17.7.1",
     "@commitlint/config-conventional": "^17.7.0",
     "husky": "^8.0.3",
-    "lerna": "^7.1.5",
-    "nx": "^16.7.3"
+    "lerna": "^7.2.0",
+    "nx": "^16.8.1"
   },
   "scripts": {
     "lint": "lerna run lint --parallel",
-    "setup": "npm install",
+    "setup": "pnpm install",
     "start": "lerna run start --parallel",
     "test": "lerna run test"
   }
