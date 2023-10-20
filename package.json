@@ -8,11 +8,11 @@
     "node": ">=16"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.7.1",
-    "@commitlint/config-conventional": "^17.7.0",
+    "@commitlint/cli": "^17.8.1",
+    "@commitlint/config-conventional": "^17.8.1",
     "husky": "^8.0.3",
-    "lerna": "^7.2.0",
-    "nx": "^16.8.1"
+    "lerna": "^7.4.1",
+    "nx": "^17.0.0"
   },
   "scripts": {
     "lint": "lerna run lint --parallel",
