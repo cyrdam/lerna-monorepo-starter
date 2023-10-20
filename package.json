@@ -8,8 +8,8 @@
     "node": ">=16"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.8.1",
-    "@commitlint/config-conventional": "^17.8.1",
+    "@commitlint/cli": "^18.0.0",
+    "@commitlint/config-conventional": "^18.0.0",
     "husky": "^8.0.3",
     "lerna": "^7.4.1",
     "nx": "^17.0.0"

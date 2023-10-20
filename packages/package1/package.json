@@ -21,7 +21,7 @@
     "test": "echo \"Error: run tests from root\" && exit 0"
   },
   "devDependencies": {
-    "@shared/eslint-config": "*",
+    "@shared/eslint-config": "^0.1.0",
     "eslint": "^8.51.0",
     "lint-staged": "^14.0.1"
   }
