@@ -8,6 +8,7 @@ module.exports = {
         'package1',
         'package2',
         'eslint',
+        'deps',
         '*',
       ]]
     },
