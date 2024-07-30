@@ -11,6 +11,6 @@
     "test": "echo \"Error: run tests from root\" && exit 0"
   },
   "peerDependencies": {
-    "eslint": "^9.5.0"
+    "eslint": "^9.8.0"
   }
 }

@@ -10,9 +10,9 @@
   "devDependencies": {
     "@commitlint/cli": "^19.3.0",
     "@commitlint/config-conventional": "^19.2.2",
-    "husky": "^9.0.11",
-    "lerna": "^8.1.5",
-    "nx": "^19.3.1"
+    "husky": "^9.1.4",
+    "lerna": "^8.1.7",
+    "nx": "^19.5.3"
   },
   "scripts": {
     "lint": "lerna run lint --parallel",
